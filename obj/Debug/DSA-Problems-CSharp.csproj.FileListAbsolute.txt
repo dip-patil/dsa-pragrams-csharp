@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DSA-Problems-CSharp\DSA-Problems-CSharp\bin\Debug\DSA-Problems-CSharp.exe.config
+C:\Users\HP\source\repos\DSA-Problems-CSharp\DSA-Problems-CSharp\bin\Debug\DSA-Problems-CSharp.exe
+C:\Users\HP\source\repos\DSA-Problems-CSharp\DSA-Problems-CSharp\bin\Debug\DSA-Problems-CSharp.pdb
+C:\Users\HP\source\repos\DSA-Problems-CSharp\DSA-Problems-CSharp\obj\Debug\DSA-Problems-CSharp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DSA-Problems-CSharp\DSA-Problems-CSharp\obj\Debug\DSA-Problems-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DSA-Problems-CSharp\DSA-Problems-CSharp\obj\Debug\DSA-Problems-CSharp.exe
+C:\Users\HP\source\repos\DSA-Problems-CSharp\DSA-Problems-CSharp\obj\Debug\DSA-Problems-CSharp.pdb
